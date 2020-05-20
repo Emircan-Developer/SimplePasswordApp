@@ -1,0 +1,9 @@
+C:\Users\emirc\source\repos\com.Keys.SetKey\bin\Debug\com.Keys.SetKey.exe.config
+C:\Users\emirc\source\repos\com.Keys.SetKey\bin\Debug\com.Keys.SetKey.exe
+C:\Users\emirc\source\repos\com.Keys.SetKey\bin\Debug\com.Keys.SetKey.pdb
+C:\Users\emirc\source\repos\com.Keys.SetKey\obj\Debug\com.Keys.SetKey.csprojAssemblyReference.cache
+C:\Users\emirc\source\repos\com.Keys.SetKey\obj\Debug\com.Keys.SetKey.Form1.resources
+C:\Users\emirc\source\repos\com.Keys.SetKey\obj\Debug\com.Keys.SetKey.Properties.Resources.resources
+C:\Users\emirc\source\repos\com.Keys.SetKey\obj\Debug\com.Keys.SetKey.csproj.GenerateResource.cache
+C:\Users\emirc\source\repos\com.Keys.SetKey\obj\Debug\com.Keys.SetKey.exe
+C:\Users\emirc\source\repos\com.Keys.SetKey\obj\Debug\com.Keys.SetKey.pdb
